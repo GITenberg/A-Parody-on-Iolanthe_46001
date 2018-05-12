@@ -1,0 +1,40 @@
+_repo: A-Parody-on-Iolanthe_46001
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McVickar, H. W. (Harry Whitney)
+    aliases:
+    - McVickar, Harry Whitney
+    - McVicar, H. W.
+    birthdate: 1860
+    gutenberg_agent_id: '43567'
+    url: http://www.gutenberg.org/2009/agents/43567
+covers:
+- cover_type: archival
+  image_path: 46001-h/images/i_b_cover.jpg
+creator:
+  author:
+    agent_name: Dalziel, D. (Davison)
+    alias: Dalziel, Davison
+    gutenberg_agent_id: '43566'
+    url: http://www.gutenberg.org/2009/agents/43566
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2014-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46001'
+  lccn: '85664748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sullivan, Arthur, 1842-1900 -- Parodies, imitations, etc.'
+- !lcsh 'Railroads -- Missouri -- Drama'
+- !lcsh 'Sullivan, Arthur, 1842-1900. Iolanthe'
+- !lcsh 'Chicago and Alton Railroad Company -- Drama'
+- !lcc 'PS'
+- !lcsh 'Railroads -- Illinois -- Drama'
+title: A Parody on Iolanthe
+url: http://www.gutenberg.org/ebooks/46001
