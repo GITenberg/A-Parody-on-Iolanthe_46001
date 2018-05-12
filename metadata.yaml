@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '43566'
     url: http://www.gutenberg.org/2009/agents/43566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46001#A-Parody-on-Iolanthe
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2014-06-16'
 gutenberg_type: Text
